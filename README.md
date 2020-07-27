@@ -1,9 +1,8 @@
 <!--### Hi there..Welcome to my GitHub👋-->
 
 
+![Screenshot 2020-07-28 at 2 48 04 AM](https://user-images.githubusercontent.com/37113163/88593753-abcc3e00-d07d-11ea-897b-e763afa68a04.png)
 
-
-![Screenshot 2020-07-28 at 2 53 14 AM](https://user-images.githubusercontent.com/37113163/88593670-86d7cb00-d07d-11ea-9ae1-a6897d326607.png)
 <!--
 **rasleen298/rasleen298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,29 @@
 <!--### Hi there..Welcome to my GitHub👋-->
+##  About me✨
+Hi there 👋
 
+Nice meeting you, I'm Rasleen!
 
-![Screenshot 2022-08-26 at 11 33 19 PM](https://user-images.githubusercontent.com/37113163/186965336-b5d2587b-21d2-4339-9446-1f2c21544e7a.png)
+- I'm currently working as a Senior Software Engineer at Daffodil Software! 
+- I am working for Digital India building apps including Poshan Tracker and UPSC Authentication App having crores of beneficiaries maintaining heavy performance.
+💬 Ask me about Offline core development and stuff!
+😄 Pronouns: She/Her
+⚡ Fun fact: If I am not coding then I am probably writing on Medium!
+
+##  Socials👩🏻‍💻
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 <!--
 **rasleen298/rasleen298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

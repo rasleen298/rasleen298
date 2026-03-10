@@ -6,7 +6,7 @@ Nice meeting you, I'm Rasleen!
 
 - I'm currently working as a Senior Software Engineer at Daffodil Software! 
 - I am working for Digital India building apps including Poshan Tracker and UPSC Authentication App having millions of beneficiaries maintaining heavy performance.
-- Ask me about Offline core development and stuff!
+- Ask me about Offline core frontend development and stuff!
 - Pronouns: She/Her
 - Fun fact: If I am not coding then I am probably writing on Medium!
 
